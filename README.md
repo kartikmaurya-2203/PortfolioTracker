@@ -13,7 +13,7 @@
 | **Credits** | 3 |
 | **Framework & Evaluation** | VITyarthi - Build Your Own Project Guidelines |
 | **Project Statement** | See [statement.md](statement.md) for Problem Statement, Scope, Target Users & Feature Matrix |
-| **Formal Project Report** | Located at [docs/Portfolio_Tracker_Report_priyam_prakash.pdf](docs/Portfolio_Tracker_Report_Priyam_Prakash_24BEC10139.pdf) |
+| **Formal Project Report** | Located at [docs/Portfolio_Tracker_Report_priyam_prakash.pdf](docs/Portfolio_Tracker_Report_KartikKumarMaurya24BEC10008 .pdf) |
 
 ---
 
